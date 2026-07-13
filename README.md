@@ -196,6 +196,6 @@ Platform, güvenli bir kimlik doğrulama mimarisi üzerine inşa edilmiştir:
 
 *⚽ Futbol sadece bir oyun değil, bir kültürdür. Bu platform o kültürü dijitale taşır.*
 
-**Futbol Arkadaşım** © 2025 — Tüm hakları saklıdır.
+**Futbol Arkadaşım** © 2026 
 
 </div>
